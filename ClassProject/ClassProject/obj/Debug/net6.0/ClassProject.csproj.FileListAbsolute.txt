@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\ClassProject\ClassProject\bin\Debug\net6.0\ClassProject.exe
+C:\Users\LENOVO\source\repos\ClassProject\ClassProject\bin\Debug\net6.0\ClassProject.deps.json
+C:\Users\LENOVO\source\repos\ClassProject\ClassProject\bin\Debug\net6.0\ClassProject.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ClassProject\ClassProject\bin\Debug\net6.0\ClassProject.dll
+C:\Users\LENOVO\source\repos\ClassProject\ClassProject\bin\Debug\net6.0\ClassProject.pdb
+C:\Users\LENOVO\source\repos\ClassProject\ClassProject\obj\Debug\net6.0\ClassProject.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\ClassProject\ClassProject\obj\Debug\net6.0\ClassProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\ClassProject\ClassProject\obj\Debug\net6.0\ClassProject.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ClassProject\ClassProject\obj\Debug\net6.0\ClassProject.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ClassProject\ClassProject\obj\Debug\net6.0\ClassProject.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ClassProject\ClassProject\obj\Debug\net6.0\ClassProject.dll
+C:\Users\LENOVO\source\repos\ClassProject\ClassProject\obj\Debug\net6.0\refint\ClassProject.dll
+C:\Users\LENOVO\source\repos\ClassProject\ClassProject\obj\Debug\net6.0\ClassProject.pdb
+C:\Users\LENOVO\source\repos\ClassProject\ClassProject\obj\Debug\net6.0\ClassProject.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\ClassProject\ClassProject\obj\Debug\net6.0\ref\ClassProject.dll
