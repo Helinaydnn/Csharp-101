@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\11_Inheritance\bin\Debug\net6.0\11_Inheritance.exe
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\11_Inheritance\bin\Debug\net6.0\11_Inheritance.deps.json
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\11_Inheritance\bin\Debug\net6.0\11_Inheritance.runtimeconfig.json
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\11_Inheritance\bin\Debug\net6.0\11_Inheritance.dll
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\11_Inheritance\bin\Debug\net6.0\11_Inheritance.pdb
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\11_Inheritance\obj\Debug\net6.0\11_Inheritance.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\11_Inheritance\obj\Debug\net6.0\11_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\11_Inheritance\obj\Debug\net6.0\11_Inheritance.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\11_Inheritance\obj\Debug\net6.0\11_Inheritance.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\11_Inheritance\obj\Debug\net6.0\11_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\11_Inheritance\obj\Debug\net6.0\11_Inheritance.dll
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\11_Inheritance\obj\Debug\net6.0\refint\11_Inheritance.dll
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\11_Inheritance\obj\Debug\net6.0\11_Inheritance.pdb
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\11_Inheritance\obj\Debug\net6.0\11_Inheritance.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\11_Inheritance\obj\Debug\net6.0\ref\11_Inheritance.dll

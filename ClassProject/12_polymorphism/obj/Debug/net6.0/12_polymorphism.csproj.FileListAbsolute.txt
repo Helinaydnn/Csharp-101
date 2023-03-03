@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\12_polymorphism\bin\Debug\net6.0\12_polymorphism.exe
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\12_polymorphism\bin\Debug\net6.0\12_polymorphism.deps.json
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\12_polymorphism\bin\Debug\net6.0\12_polymorphism.runtimeconfig.json
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\12_polymorphism\bin\Debug\net6.0\12_polymorphism.dll
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\12_polymorphism\bin\Debug\net6.0\12_polymorphism.pdb
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\12_polymorphism\obj\Debug\net6.0\12_polymorphism.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\12_polymorphism\obj\Debug\net6.0\12_polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\12_polymorphism\obj\Debug\net6.0\12_polymorphism.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\12_polymorphism\obj\Debug\net6.0\12_polymorphism.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\12_polymorphism\obj\Debug\net6.0\12_polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\12_polymorphism\obj\Debug\net6.0\12_polymorphism.dll
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\12_polymorphism\obj\Debug\net6.0\refint\12_polymorphism.dll
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\12_polymorphism\obj\Debug\net6.0\12_polymorphism.pdb
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\12_polymorphism\obj\Debug\net6.0\12_polymorphism.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\12_polymorphism\obj\Debug\net6.0\ref\12_polymorphism.dll
