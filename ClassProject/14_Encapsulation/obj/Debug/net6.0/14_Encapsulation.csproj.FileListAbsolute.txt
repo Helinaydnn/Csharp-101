@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\14_Encapsulation\bin\Debug\net6.0\14_Encapsulation.exe
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\14_Encapsulation\bin\Debug\net6.0\14_Encapsulation.deps.json
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\14_Encapsulation\bin\Debug\net6.0\14_Encapsulation.runtimeconfig.json
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\14_Encapsulation\bin\Debug\net6.0\14_Encapsulation.dll
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\14_Encapsulation\bin\Debug\net6.0\14_Encapsulation.pdb
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\14_Encapsulation\obj\Debug\net6.0\14_Encapsulation.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\14_Encapsulation\obj\Debug\net6.0\14_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\14_Encapsulation\obj\Debug\net6.0\14_Encapsulation.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\14_Encapsulation\obj\Debug\net6.0\14_Encapsulation.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\14_Encapsulation\obj\Debug\net6.0\14_Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\14_Encapsulation\obj\Debug\net6.0\14_Encapsulation.dll
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\14_Encapsulation\obj\Debug\net6.0\refint\14_Encapsulation.dll
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\14_Encapsulation\obj\Debug\net6.0\14_Encapsulation.pdb
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\14_Encapsulation\obj\Debug\net6.0\14_Encapsulation.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\GitHub\Csharp-101\ClassProject\14_Encapsulation\obj\Debug\net6.0\ref\14_Encapsulation.dll
